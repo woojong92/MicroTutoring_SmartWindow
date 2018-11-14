@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+project.tizenrt.preConfig=typical
+project.tizenrt.priority=100
+project.tizenrt.sdk.path=artik053_1.2
+project.tizenrt.stacksize=18432
